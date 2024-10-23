@@ -27,8 +27,3 @@ This project covers the entire machine learning lifecycle, from data collection 
 - **FastAPI**: Used to build the backend API for model serving.
 - **Docker**: Containerized the machine learning model for scalable deployment.
 - **Power BI**: Created reports for visual analysis of the model’s predictions.
-
-## Future Enhancements
-- Implementing real-time data ingestion to continuously improve the model.
-- Further optimization of the model to enhance accuracy.
-- Adding more features to enrich the predictive power of the model.
