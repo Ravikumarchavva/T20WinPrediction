@@ -1,6 +1,6 @@
 # T20WinPrediction
 
-**T20WinPrediction** is a student project that uses data science and machine learning to predict the probability of a team winning a T20 cricket match. The goal is to accurately forecast match outcomes using advanced analytics and machine learning models.
+**T20WinPrediction** is a end-to-end project that uses data science and machine learning to predict the probability of a team winning a T20 cricket match. The goal is to accurately forecast match outcomes using advanced analytics and machine learning models.
 
 ## Project Overview
 
